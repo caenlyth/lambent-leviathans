@@ -4,7 +4,7 @@ title: Lambent Leviathans
 
 Hello All,
 
-This is a small project for the Dungeons and Dragons campaign my friend and me are running/participating in.
+This is a small project for the Dungeons and Dragons campaign my friends and I are running/participating in.
 
 I was tracking my notes using Obsidian and I wanted to have something that perhaps my friends or really anyone could peruse if they needed it or were interested.
 
