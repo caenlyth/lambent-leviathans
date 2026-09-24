@@ -37,3 +37,29 @@ We also learn that the train is called the [[Grounded Zephyr]].
 
 ## Aboard the Grounded Zephyr
 ---
+### Main Car
+---
+Aboard the train, we all take our seats. [[Callisto]] decides to strike up a conversation with [[Parson]]. After some small talk and introductions, [[Callisto]] brings up the topic of the [[Eldritch Moons]] and his study into their phases.
+
+With our current understanding, the phases of the moons are random. It is believed, however, that a pattern could be discerned in the future. We do understand a few things.
+1. They tend to be more common in times of unrest.
+2. They are much more common because of the [[Scourge]].
+
+As we are talking, the Conductor passes by. We notice that he seems extremely nervous/anxious. He is constantly glancing towards the back of the train.
+
+[[Parson]] and [[Callisto]] decide it would be a good idea to inform the [[Watcher's Guild]] members of the Conductor's nervousness and strange behavior.
+
+They tell us that that is common behavior for [[Lucius]] (the conductor). He is a naturally nervous man and tends to get worked up easily. Nonetheless, they take our concerns seriously and the larger of the two men follows [[Lucius]] to the back of the train. The monocled man remains behind with us.
+
+### Agatha's Adventures
+---
+_(This information is obviously only known to Agatha at this point as she travels by herself to the fore of the train.)_
+
+[[Agatha]] heads into the forward train cars and meets the woman in the wheelchair and her portly companion. They make idle conversation and [[Agatha]] learns that the woman is [[Lady Augustine Treadway]]. She is the owner of [[Auntie Augustine's Apothecary]]. Bidding the duo farewell, Agatha heads further along the train.
+
+The next group she meets are members of the [[Church of the Guiding Light]]: [[Lucretia]], [[Henrick]], and some other unnamed guard/s.
+
+[[Lucretia]] is clearly the leader of the group as she commands [[Henrick]] to calm himself as he becomes agitated at [[Agatha]]'s presence. He seems to visibly recoil as she calls his name.
+
+### Arguments in the Rear (Digging)
+---
