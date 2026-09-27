@@ -20,7 +20,6 @@ Next up is [[Agatha]]. She is a clergy member of one of the churches present in 
 	 Agatha hears the men discussing a contact they have on the train. They will meet them in the dining car at the front of the train. It seems the contact is a Mr. Shea, and they come from the Foundry Quarter.
 </details>
 
-
 ### Kamaria
 Next, [[Kamaria]] enters the station with her servant. (Little else happens with [[Kamaria]] from this point onward.)
 
@@ -63,3 +62,9 @@ The next group she meets are members of the [[Church of the Guiding Light]]: [[L
 
 ### Arguments in the Rear (Digging)
 ---
+[[Lucius]] gets into an altercation with a man in one of the rear cars. The man ([[Elias]]) seems agitated, and insists that he must check on some cargo he is supposed to be delivering. [[Lucius]] informs [[Elias]] that the cargo is safe as the only people who can get into the cargo car are the engineer, security, and [[Lucius]] himself.
+
+[[Elias]] becomes increasingly angry despite [[Lucius]]'s attempts to assuage him. [[Lucius]] eventually relents and agrees to take [[Elias]] to the storage car in the rear of the train. The pair rush off with [[Elias]] ranting about how his father would kill him if something happened to the package. His father being [[Francis Green]], the head of the [[Merchant's Guild]] in [[Cornwall]].
+
+The aforementioned package supposedly contains some heirlooms/artefacts from [[Weldrake]]. They come from the [[Prism Desert]]. A long lost fallen empire in the sands.
+
