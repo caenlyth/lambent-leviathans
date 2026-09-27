@@ -175,13 +175,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88cb75262ca28016",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "styles.css",
-    "Characters/Portraits/Callisto Portrait.png",
-    "Untitled.md",
-    "Characters/Callisto.md",
+    "Characters/Parson.md",
     "Characters/Agatha.md",
+    "Characters/Callisto.md",
+    "styles.css",
+    "Callisto Portrait.png",
+    "Untitled.md",
     "Characters/Portraits",
     "Sessions/Session 1 - A Gathering; A Journey.md",
     "NPCs/Turner Beckman.md",
@@ -204,7 +205,6 @@
     "Locations/Foundry Quarter.md",
     "Characters/Kamaria.md",
     "Locations/Millmore.md",
-    "Characters/Parson.md",
     "index.md",
     "Entities",
     "Locations",

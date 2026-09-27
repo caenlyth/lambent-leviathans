@@ -8,4 +8,4 @@
 	}
 </style>
 
-<img src="./Portraits/Callisto Portrait.png" class="align-right">
+<img src="../Callisto Portrait.png" class="align-right">
