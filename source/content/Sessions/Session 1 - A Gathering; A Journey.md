@@ -68,3 +68,11 @@ The next group she meets are members of the [[Church of the Guiding Light]]: [[L
 
 The aforementioned package supposedly contains some heirlooms/artefacts from [[Weldrake]]. They come from the [[Prism Desert]]. A long lost fallen empire in the sands.
 
+[[Turner Beckman]], one of [[Elias]]'s companions, informs us they have been travelling across [[Isle of Lumen | Lumen]]. As he tells us this, he is sketching some kind of animal in his journal. It looks like an elk with longer, stringier fur.
+
+There is one other man with [[Elias]] and [[Turner Beckman | Turner]], but he doesn't seem interested in identifying himself.
+
+### Parson and Callisto, Super Sleuths
+---
+[[Parson]] and [[Callisto]] make their way towards the front of the train because [[Parson]] feels some kind of itch (location?) and wants to investigate.
+
