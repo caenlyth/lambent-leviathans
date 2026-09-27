@@ -17,9 +17,9 @@ Next up is [[Agatha]]. She is a clergy member of one of the churches present in 
 
 <details style="background: #ADCCFFA6;">
 	<summary>Agatha Exclusive Information</summary>
-	 Agatha hears the men discussing a contact they have on the train. They will meet them in the dining car at the front of the train. It seems the contact is a Mr. Shea, and they come from the
+	 Agatha hears the men discussing a contact they have on the train. They will meet them in the dining car at the front of the train. It seems the contact is a Mr. Shea, and they come from the Foundry Quarter.
 </details>
-[[Foundry Quarter]].
+
 
 ### Kamaria
 Next, [[Kamaria]] enters the station with her servant. (Little else happens with [[Kamaria]] from this point onward.)
